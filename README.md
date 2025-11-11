@@ -1,2 +1,2 @@
-# subscription-payment-project
+# Fitnes-Guru-project
 Проект "Фитнес-Гуру". SCRUM-подход, 6-недельный цикл разработки.
